@@ -1,0 +1,98 @@
+body{
+    background-color: rgb(231, 228, 228);
+}
+.navbar-brand{
+    font-size: larger;
+    font-weight: bolder;
+    margin-left: 15px;
+}
+.navbar-nav{
+    margin-left: 15rem;
+    font-size: larger;
+    font-weight: bolder;
+}
+.fb{
+    width: 60px;
+}
+
+.tw{
+    width: 60px;
+}
+
+.ig{
+    width: 60px;
+}
+
+.smallicon{
+    width: 40px;
+}
+
+.container2{
+    background-image: url(photos/images.jpg);
+    background-size: cover;
+    padding-left: 150px;
+    padding-top: 100px;
+    height: 100%;
+}
+
+.s1{
+    font-size: larger;
+    font-weight: bolder;
+    margin-bottom: 20px;
+}
+.s2{
+    font-size: 50px;
+    font-weight: bolder;
+    margin-bottom: 50px;
+}
+
+.s3{
+    font-size: larger;
+    font-weight: bolder;
+    margin-bottom: 30px;
+}
+
+.s4{
+    width: 170px;
+    height: 60px;
+    font-weight: bolder;
+    background-color: bisque;
+    border: 0px;
+}
+
+.container3{
+    margin-top: 70px;
+    margin-left: 130px;
+    margin-bottom: 70px;
+}
+
+.m1{
+    font-size: larger;
+    font-weight: bolder;
+    color: rgb(126, 121, 121);
+    margin-left: 30px;
+}
+
+.m2{
+    margin-left: 30px;
+    font-size: 55px;
+    font-weight: bold;
+}
+
+.m3{
+    margin-left: 30px;
+    font-size: larger;
+}
+.m4{
+    margin-left: 20px;
+    font-weight: bolder;
+}
+
+.btn{
+    margin-left: 60px;
+    height: 50px;
+    background-color: rgb(221, 221, 221);
+    border: 0px;
+}
+
+
